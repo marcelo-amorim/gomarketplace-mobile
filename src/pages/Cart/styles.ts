@@ -25,7 +25,7 @@ export const Product = styled.View`
   margin: 5px;
   flex: 1;
   flex-direction: row;
-  min-height: 120px;
+  /* min-height: 120px; */
 `;
 
 export const ProductImage = styled.Image`
